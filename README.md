@@ -56,7 +56,7 @@ BlurMate 是一款功能强大的浏览器扩展，专为保护网页中的敏�
 - **状态提示**：清晰的操作反馈和状态指示
 - **无缝集成**：不影响原网页功能和布局
 
-![Persistent Protection](doc/Persistent Protection.png)
+![Persistent_Protection](doc/Persistent_Protection.png)
 
 ## 🚀 安装使用
 
