@@ -1,8 +1,18 @@
 # 模糊助手
 
+<div align="center">
+
+![BlurMate Logo](doc/logo.png)
+
+**智能网页敏感信息模糊保护工具**
+
+</div>
+
 ## 📖 项目简介
 
 BlurMate 是一款功能强大的浏览器扩展，专为保护网页中的敏感信息而设计。它结合了传统规则匹配和先进的AI技术，能够智能识别并模糊处理页面中的隐私数据，为用户提供全面的隐私保护解决方案。
+
+![BlurMate Tool Bar](doc/tool-bar-cn.png)
 
 ### 🎯 核心价值
 
@@ -45,6 +55,8 @@ BlurMate 是一款功能强大的浏览器扩展，专为保护网页中的敏�
 - **快捷键支持**：ESC键快速退出模糊模式
 - **状态提示**：清晰的操作反馈和状态指示
 - **无缝集成**：不影响原网页功能和布局
+
+![Persistent Protection](doc/Persistent Protection.png)
 
 ## 🚀 安装使用
 
