@@ -12,7 +12,7 @@
 
 BlurMate is a powerful browser extension designed to protect sensitive information on web pages. It combines traditional rule matching with advanced AI to intelligently detect and blur private data, providing comprehensive privacy protection for users.
 
-![BlurMate Tool Bar](doc/tool-bar-cn.png)
+![BlurMate Tool Bar](doc/tool-bar-en.png)
 
 ### 🎯 Core Value
 
